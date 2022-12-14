@@ -1,2 +1,3 @@
-/bgfx
 /build
+/external
+/.cache
